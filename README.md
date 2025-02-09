@@ -1,2 +1,2 @@
-# Orbit_EMO_V1
-This folder contains the paradigm scripts for version 1 of project orbit emo 
+# Orbit_EMO_Project
+This folder contains the paradigm scripts for version 1, version 2, and version 3 of project orbit emo 
